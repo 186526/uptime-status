@@ -1,5 +1,5 @@
 {
-  "name": "uptime-status",
+  "name": "uptimeStatus",
   "version": "1.4.0",
   "private": true,
   "dependencies": {
